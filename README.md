@@ -4,11 +4,11 @@
     <img align="center" src=https://github-readme-stats.vercel.app/api?username=Migueljfc&count_private=true&show_icons=true&theme=tokyonight />
   </a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Migueljfc&label=Profile%20views&color=42f2f5" alt="Migueljfc" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Migueljfc&label=Profile%20views&color=5d7de8" alt="Migueljfc" /> </p>
 
 
 
-<!--
+
 **Migueljfc/Migueljfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Migueljfc&exclude_repo=Projeto-Final-LSD&layout=compact)]
 Here are some ideas to get you started:
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
