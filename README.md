@@ -1,11 +1,10 @@
 <p align="center"> Hi there 👋 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mynameisvasco&label=Profile%20views&color=0e75b6&style=plastic" alt="Migueljfc" /> </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src=https://github-readme-stats.vercel.app/api?username=Migueljfc&count_private=true&show_icons=true&theme=tokyonight />
   </a>
 </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Migueljfc&label=Profile%20views&color=0e75b6&style=plastic" alt="Migueljfc" /> </p>
 
 
 
