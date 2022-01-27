@@ -1,11 +1,15 @@
 <p align="center"> Hi there 👋 </p>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/migueljfc">
     <img align="center" src=https://github-readme-stats.vercel.app/api?username=Migueljfc&count_private=true&show_icons=true&theme=tokyonight />
   </a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Migueljfc&label=Profile%20views&color=5d7de8" alt="Migueljfc" /> 
-<img src="https://ionicabizau.github.io/badges/paypal.svg"/> <href="https://paypal.me/miguelcabral2"> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Migueljfc&label=Profile%20views&color=5d7de8" alt="Migueljfc" /> 
+  <a href="https://paypal.me/miguelcabral2">
+    <img src="https://ionicabizau.github.io/badges/paypal.svg"/> 
+  </a>    
+</p>
 
 
 
