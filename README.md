@@ -1,7 +1,12 @@
 <p align="center"> Hi there 👋 </p>
 <p align="center">
   <a href="https://github.com/migueljfc">
-    <img align="center" src=https://github-readme-stats.vercel.app/api?username=Migueljfc&count_private=true&show_icons=true&theme=tokyonight />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Migueljfc&count_private=true&show_icons=true&theme=tokyonight" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/migueljfc">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Migueljfc&count_private=true&show_icons=true&theme=tokyonight" />
   </a>
 </p>
 <p align="center"> 
