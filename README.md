@@ -5,7 +5,7 @@
   </a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Migueljfc&label=Profile%20views&color=5d7de8" alt="Migueljfc" /> </p>
-
+[![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra)
 
 
 
