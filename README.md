@@ -14,9 +14,11 @@
    <a href="https://www.linkedin.com/in/miguel-cabral-2254a621b">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
   </a>
+  <!--
   <a href="https://paypal.me/miguelcabral2">
     <img src="https://ionicabizau.github.io/badges/paypal.svg"/> 
-  </a>    
+  </a>   
+ //-->
 </p>
 
 
